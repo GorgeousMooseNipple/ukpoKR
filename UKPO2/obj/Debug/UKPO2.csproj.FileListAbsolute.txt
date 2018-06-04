@@ -19,3 +19,10 @@ C:\Users\Dmitry\source\repos\ukpoTests\UKPO2\obj\Debug\UKPO2.csprojResolveAssemb
 C:\Users\Dmitry\source\repos\ukpoTests\UKPO2\obj\Debug\UKPO2.csproj.CoreCompileInputs.cache
 C:\Users\Dmitry\source\repos\ukpoTests\UKPO2\obj\Debug\UKPO2.exe
 C:\Users\Dmitry\source\repos\ukpoTests\UKPO2\obj\Debug\UKPO2.pdb
+C:\Users\Dmitry\source\repos\ukpoKR\UKPO2\bin\Debug\UKPO2.exe.config
+C:\Users\Dmitry\source\repos\ukpoKR\UKPO2\bin\Debug\UKPO2.exe
+C:\Users\Dmitry\source\repos\ukpoKR\UKPO2\bin\Debug\UKPO2.pdb
+C:\Users\Dmitry\source\repos\ukpoKR\UKPO2\obj\Debug\UKPO2.csprojResolveAssemblyReference.cache
+C:\Users\Dmitry\source\repos\ukpoKR\UKPO2\obj\Debug\UKPO2.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\ukpoKR\UKPO2\obj\Debug\UKPO2.exe
+C:\Users\Dmitry\source\repos\ukpoKR\UKPO2\obj\Debug\UKPO2.pdb

@@ -33,22 +33,6 @@ namespace DNAGraphTest
             Assert.AreEqual(0, verticles.Count);
         }
 
-        //Одинаковые фрагменты молекулы
-        [Test]
-        public void SameFragmentsTest()
-        {
-            String molecule = "АГЦЦАГЦЦАГЦЦ";
-            String[] fragmentsArray = { "АГЦЦ", "АГЦЦ", "АГЦЦ" };
-            DNAGraph graph = new DNAGraph(molecule, fragmentsArray);
-            var verticles = graph.VerticleList;
-
-            List<String> neighbours = new List<string>() { "АГЦЦ" };
-
-            Assert.AreEqual(verticles[0].GetNeighbours(), neighbours);
-            Assert.AreEqual(verticles[1].GetNeighbours(), neighbours);
-            Assert.AreEqual(verticles[2].GetNeighbours(), new List<String>());
-        }
-
         //Проверка корректности работы класса, разбивающего исходную молекулу на фрагменты
         [Test]
         public void FragmentGeneratorTest()
