@@ -32,7 +32,7 @@ namespace FuckingInterfaceTests
         [SetUp]
         public void InitApplicationForTests()
         {
-            app = TestStack.White.Application.Launch(@"..\..\..\Interface\bin\Debug\Interface.exe");
+            app = TestStack.White.Application.Launch(@"..\..\..\..\Interface\bin\x64\Debug\Interface.exe");
             window = app.GetWindow("MainWindow");
             submitButton =
                 window.Get<Button>(SearchCriteria.ByAutomationId("SubmitInputButton"));
