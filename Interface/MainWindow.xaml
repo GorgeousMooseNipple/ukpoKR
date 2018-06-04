@@ -1,0 +1,34 @@
+﻿<Window x:Class="Interface.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Interface"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="435.818" Width="800">
+    <Grid x:Name="FragmentsNumTextBox" Margin="-380,-100,-468,-102">
+        <Canvas x:Name="OutputCanvas" HorizontalAlignment="Left" Height="296" Margin="676,163,0,0" VerticalAlignment="Top" Width="467">
+            <ListBox x:Name="FragmentsListBox" HorizontalAlignment="Left" Height="148" VerticalAlignment="Top" Width="82" Canvas.Left="55" Canvas.Top="132"/>
+            <ListBox x:Name="OutputPathsListBox" HorizontalAlignment="Left" Height="182" VerticalAlignment="Top" Width="238" Canvas.Left="182" Canvas.Top="54"/>
+            <Label x:Name="FragmentsListLabel" Content="Список фрагментов" HorizontalAlignment="Left" Height="35" VerticalAlignment="Top" Width="121" Canvas.Left="47" Canvas.Top="97"/>
+            <Label x:Name="OutputPathsLabel" Content="Найденные пути" HorizontalAlignment="Left" VerticalAlignment="Top" Height="29" Width="108" Canvas.Left="202" Canvas.Top="25"/>
+            <Button x:Name="RestartButton" Content="Рестарт" HorizontalAlignment="Left" Height="22" VerticalAlignment="Top" Width="114" Canvas.Left="320" Canvas.Top="258" Click="RestartButton_Click"/>
+            <Button x:Name="FindPathsButton" Content="Найти пути в графе" HorizontalAlignment="Left" Height="22" VerticalAlignment="Top" Width="140" Canvas.Left="170" Canvas.Top="260" Click="FindPathsButton_Click"/>
+            <Label x:Name="MoleculeNameLabel" Content="" Height="26" Canvas.Left="47" Canvas.Top="56" Width="113"/>
+            <Button x:Name="TestButton" Height="36" Canvas.Left="28" Canvas.Top="49" Width="123" Click="TestButton_Click">
+                <TextBlock TextWrapping="Wrap" TextAlignment="Center" Height="30" Width="117">
+                    10000 вызовов функции
+                </TextBlock>
+            </Button>
+        </Canvas>
+        <Canvas x:Name="InputCanvas" HorizontalAlignment="Left" Height="232" Margin="428,179,0,0" VerticalAlignment="Top" Width="243">
+            <TextBox x:Name="FragNumTextBox" HorizontalAlignment="Left" Height="22" TextWrapping="Wrap" VerticalAlignment="Top" Width="150" Canvas.Left="42" Canvas.Top="126"/>
+            <TextBox x:Name="MoleculeInputTextBox" HorizontalAlignment="Left" Height="22" TextWrapping="Wrap" VerticalAlignment="Top" Width="150" Canvas.Left="42" Canvas.Top="43"/>
+            <Label x:Name="MoleculeInputLabel" Content="Введите полную молекулу" HorizontalAlignment="Left" Height="25" VerticalAlignment="Top" Width="164" Canvas.Left="42" Canvas.Top="15"/>
+            <Label x:Name="FragmentsNumLabel" Content="Введите количество фрагментов" HorizontalAlignment="Left" Height="25" VerticalAlignment="Top" Width="207" Canvas.Left="42" Canvas.Top="98"/>
+            <Button x:Name="SubmitInputButton" Content="Ввести данные" HorizontalAlignment="Left" Height="22" VerticalAlignment="Top" Width="109" Click="SubmitInputButton_Click" Canvas.Left="42" Canvas.Top="186"/>
+        </Canvas>
+        <CheckBox x:Name="TestDataCheckBox" Content="Загрузить тестовые значения" HorizontalAlignment="Left" Height="19" Margin="462,139,0,0" VerticalAlignment="Top" Width="186"/>
+        <Label x:Name="TestLabel" Content="" HorizontalAlignment="Left" Height="35" Margin="862,128,0,0" VerticalAlignment="Top" Width="78"/>
+    </Grid>
+</Window>
