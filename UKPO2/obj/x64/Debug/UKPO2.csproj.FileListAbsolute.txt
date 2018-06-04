@@ -1,0 +1,7 @@
+C:\Users\Dmitry\source\repos\ukpoKR\UKPO2\bin\x64\Debug\UKPO2.exe.config
+C:\Users\Dmitry\source\repos\ukpoKR\UKPO2\bin\x64\Debug\UKPO2.exe
+C:\Users\Dmitry\source\repos\ukpoKR\UKPO2\bin\x64\Debug\UKPO2.pdb
+C:\Users\Dmitry\source\repos\ukpoKR\UKPO2\obj\x64\Debug\UKPO2.csprojResolveAssemblyReference.cache
+C:\Users\Dmitry\source\repos\ukpoKR\UKPO2\obj\x64\Debug\UKPO2.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\ukpoKR\UKPO2\obj\x64\Debug\UKPO2.exe
+C:\Users\Dmitry\source\repos\ukpoKR\UKPO2\obj\x64\Debug\UKPO2.pdb

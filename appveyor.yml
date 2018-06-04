@@ -1,0 +1,15 @@
+version: 1.0.{build}
+configuration: Debug
+platform: x64
+
+build:
+  project: UKPO2.sln
+  publish_nuget: true
+  include_nuget_references: true
+  verbosity: minimal
+
+test:
+  assemblies:
+    only:
+    - InterfaceTests/bin/x64/Debug/InterfaceTests.dll
+    - DNAGraphTest/bin/x64/Debug/DNAGraphTest.dll

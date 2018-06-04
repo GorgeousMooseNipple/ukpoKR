@@ -47,8 +47,6 @@ C:\Users\Dmitry\source\repos\ukpoKR\InterfaceTests\bin\Debug\Microsoft.VisualStu
 C:\Users\Dmitry\source\repos\ukpoKR\InterfaceTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
 C:\Users\Dmitry\source\repos\ukpoKR\InterfaceTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
 C:\Users\Dmitry\source\repos\ukpoKR\InterfaceTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
-C:\Users\Dmitry\source\repos\ukpoKR\InterfaceTests\bin\Debug\FuckingInterfaceTests.dll
-C:\Users\Dmitry\source\repos\ukpoKR\InterfaceTests\bin\Debug\FuckingInterfaceTests.pdb
 C:\Users\Dmitry\source\repos\ukpoKR\InterfaceTests\bin\Debug\Castle.Core.dll
 C:\Users\Dmitry\source\repos\ukpoKR\InterfaceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
 C:\Users\Dmitry\source\repos\ukpoKR\InterfaceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
@@ -62,5 +60,7 @@ C:\Users\Dmitry\source\repos\ukpoKR\InterfaceTests\bin\Debug\TestStack.White.pdb
 C:\Users\Dmitry\source\repos\ukpoKR\InterfaceTests\bin\Debug\TestStack.White.xml
 C:\Users\Dmitry\source\repos\ukpoKR\InterfaceTests\obj\Debug\NiceInterfaceTests.csprojResolveAssemblyReference.cache
 C:\Users\Dmitry\source\repos\ukpoKR\InterfaceTests\obj\Debug\NiceInterfaceTests.csproj.CoreCompileInputs.cache
-C:\Users\Dmitry\source\repos\ukpoKR\InterfaceTests\obj\Debug\FuckingInterfaceTests.dll
-C:\Users\Dmitry\source\repos\ukpoKR\InterfaceTests\obj\Debug\FuckingInterfaceTests.pdb
+C:\Users\Dmitry\source\repos\ukpoKR\InterfaceTests\bin\Debug\InterfaceTests.dll
+C:\Users\Dmitry\source\repos\ukpoKR\InterfaceTests\bin\Debug\InterfaceTests.pdb
+C:\Users\Dmitry\source\repos\ukpoKR\InterfaceTests\obj\Debug\InterfaceTests.dll
+C:\Users\Dmitry\source\repos\ukpoKR\InterfaceTests\obj\Debug\InterfaceTests.pdb
