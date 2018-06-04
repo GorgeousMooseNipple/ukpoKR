@@ -1,0 +1,21 @@
+C:\Users\Dima\Documents\Visual Studio 2017\Projects\UKPO2\UKPO2\bin\Debug\UKPO2.exe.config
+C:\Users\Dima\Documents\Visual Studio 2017\Projects\UKPO2\UKPO2\bin\Debug\UKPO2.exe
+C:\Users\Dima\Documents\Visual Studio 2017\Projects\UKPO2\UKPO2\bin\Debug\UKPO2.pdb
+C:\Users\Dima\Documents\Visual Studio 2017\Projects\UKPO2\UKPO2\obj\Debug\UKPO2.csprojResolveAssemblyReference.cache
+C:\Users\Dima\Documents\Visual Studio 2017\Projects\UKPO2\UKPO2\obj\Debug\UKPO2.csproj.CoreCompileInputs.cache
+C:\Users\Dima\Documents\Visual Studio 2017\Projects\UKPO2\UKPO2\obj\Debug\UKPO2.exe
+C:\Users\Dima\Documents\Visual Studio 2017\Projects\UKPO2\UKPO2\obj\Debug\UKPO2.pdb
+E:\Storage\dataa\Projects\UKPO2\UKPO2\bin\Debug\UKPO2.exe.config
+E:\Storage\dataa\Projects\UKPO2\UKPO2\bin\Debug\UKPO2.exe
+E:\Storage\dataa\Projects\UKPO2\UKPO2\bin\Debug\UKPO2.pdb
+E:\Storage\dataa\Projects\UKPO2\UKPO2\obj\Debug\UKPO2.csprojResolveAssemblyReference.cache
+E:\Storage\dataa\Projects\UKPO2\UKPO2\obj\Debug\UKPO2.csproj.CoreCompileInputs.cache
+E:\Storage\dataa\Projects\UKPO2\UKPO2\obj\Debug\UKPO2.exe
+E:\Storage\dataa\Projects\UKPO2\UKPO2\obj\Debug\UKPO2.pdb
+C:\Users\Dmitry\source\repos\ukpoTests\UKPO2\bin\Debug\UKPO2.exe.config
+C:\Users\Dmitry\source\repos\ukpoTests\UKPO2\bin\Debug\UKPO2.exe
+C:\Users\Dmitry\source\repos\ukpoTests\UKPO2\bin\Debug\UKPO2.pdb
+C:\Users\Dmitry\source\repos\ukpoTests\UKPO2\obj\Debug\UKPO2.csprojResolveAssemblyReference.cache
+C:\Users\Dmitry\source\repos\ukpoTests\UKPO2\obj\Debug\UKPO2.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\ukpoTests\UKPO2\obj\Debug\UKPO2.exe
+C:\Users\Dmitry\source\repos\ukpoTests\UKPO2\obj\Debug\UKPO2.pdb

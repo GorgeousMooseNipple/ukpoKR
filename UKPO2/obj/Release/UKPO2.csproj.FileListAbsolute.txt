@@ -1,0 +1,14 @@
+C:\Users\Dima\Documents\Visual Studio 2017\Projects\UKPO2\UKPO2\bin\Release\UKPO2.exe.config
+C:\Users\Dima\Documents\Visual Studio 2017\Projects\UKPO2\UKPO2\bin\Release\UKPO2.exe
+C:\Users\Dima\Documents\Visual Studio 2017\Projects\UKPO2\UKPO2\bin\Release\UKPO2.pdb
+C:\Users\Dima\Documents\Visual Studio 2017\Projects\UKPO2\UKPO2\obj\Release\UKPO2.csprojResolveAssemblyReference.cache
+C:\Users\Dima\Documents\Visual Studio 2017\Projects\UKPO2\UKPO2\obj\Release\UKPO2.csproj.CoreCompileInputs.cache
+C:\Users\Dima\Documents\Visual Studio 2017\Projects\UKPO2\UKPO2\obj\Release\UKPO2.exe
+C:\Users\Dima\Documents\Visual Studio 2017\Projects\UKPO2\UKPO2\obj\Release\UKPO2.pdb
+E:\Storage\dataa\Projects\UKPO2\UKPO2\bin\Release\UKPO2.exe.config
+E:\Storage\dataa\Projects\UKPO2\UKPO2\bin\Release\UKPO2.exe
+E:\Storage\dataa\Projects\UKPO2\UKPO2\bin\Release\UKPO2.pdb
+E:\Storage\dataa\Projects\UKPO2\UKPO2\obj\Release\UKPO2.csprojResolveAssemblyReference.cache
+E:\Storage\dataa\Projects\UKPO2\UKPO2\obj\Release\UKPO2.csproj.CoreCompileInputs.cache
+E:\Storage\dataa\Projects\UKPO2\UKPO2\obj\Release\UKPO2.exe
+E:\Storage\dataa\Projects\UKPO2\UKPO2\obj\Release\UKPO2.pdb

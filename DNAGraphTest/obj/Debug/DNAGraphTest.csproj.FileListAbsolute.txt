@@ -1,0 +1,80 @@
+C:\Users\Dima\Documents\Visual Studio 2017\Projects\UKPO2\DNAGraphTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Dima\Documents\Visual Studio 2017\Projects\UKPO2\DNAGraphTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Dima\Documents\Visual Studio 2017\Projects\UKPO2\DNAGraphTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Dima\Documents\Visual Studio 2017\Projects\UKPO2\DNAGraphTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Dima\Documents\Visual Studio 2017\Projects\UKPO2\DNAGraphTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Dima\Documents\Visual Studio 2017\Projects\UKPO2\DNAGraphTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Dima\Documents\Visual Studio 2017\Projects\UKPO2\DNAGraphTest\bin\Debug\DNAGraphTest.dll
+C:\Users\Dima\Documents\Visual Studio 2017\Projects\UKPO2\DNAGraphTest\bin\Debug\DNAGraphTest.pdb
+C:\Users\Dima\Documents\Visual Studio 2017\Projects\UKPO2\DNAGraphTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Dima\Documents\Visual Studio 2017\Projects\UKPO2\DNAGraphTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Dima\Documents\Visual Studio 2017\Projects\UKPO2\DNAGraphTest\bin\Debug\UKPO2.exe
+C:\Users\Dima\Documents\Visual Studio 2017\Projects\UKPO2\DNAGraphTest\bin\Debug\UKPO2.pdb
+C:\Users\Dima\Documents\Visual Studio 2017\Projects\UKPO2\DNAGraphTest\bin\Debug\UKPO2.exe.config
+C:\Users\Dima\Documents\Visual Studio 2017\Projects\UKPO2\DNAGraphTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Dima\Documents\Visual Studio 2017\Projects\UKPO2\DNAGraphTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Dima\Documents\Visual Studio 2017\Projects\UKPO2\DNAGraphTest\obj\Debug\DNAGraphTest.csprojResolveAssemblyReference.cache
+C:\Users\Dima\Documents\Visual Studio 2017\Projects\UKPO2\DNAGraphTest\obj\Debug\DNAGraphTest.csproj.CoreCompileInputs.cache
+C:\Users\Dima\Documents\Visual Studio 2017\Projects\UKPO2\DNAGraphTest\obj\Debug\DNAGraphTest.dll
+C:\Users\Dima\Documents\Visual Studio 2017\Projects\UKPO2\DNAGraphTest\obj\Debug\DNAGraphTest.pdb
+E:\Storage\dataa\Projects\UKPO2\DNAGraphTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Storage\dataa\Projects\UKPO2\DNAGraphTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Storage\dataa\Projects\UKPO2\DNAGraphTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Storage\dataa\Projects\UKPO2\DNAGraphTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+E:\Storage\dataa\Projects\UKPO2\DNAGraphTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+E:\Storage\dataa\Projects\UKPO2\DNAGraphTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\Storage\dataa\Projects\UKPO2\DNAGraphTest\bin\Debug\DNAGraphTest.dll
+E:\Storage\dataa\Projects\UKPO2\DNAGraphTest\bin\Debug\DNAGraphTest.pdb
+E:\Storage\dataa\Projects\UKPO2\DNAGraphTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Storage\dataa\Projects\UKPO2\DNAGraphTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Storage\dataa\Projects\UKPO2\DNAGraphTest\bin\Debug\UKPO2.exe
+E:\Storage\dataa\Projects\UKPO2\DNAGraphTest\bin\Debug\UKPO2.pdb
+E:\Storage\dataa\Projects\UKPO2\DNAGraphTest\bin\Debug\UKPO2.exe.config
+E:\Storage\dataa\Projects\UKPO2\DNAGraphTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Storage\dataa\Projects\UKPO2\DNAGraphTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Storage\dataa\Projects\UKPO2\DNAGraphTest\obj\Debug\DNAGraphTest.csprojResolveAssemblyReference.cache
+E:\Storage\dataa\Projects\UKPO2\DNAGraphTest\obj\Debug\DNAGraphTest.csproj.CoreCompileInputs.cache
+E:\Storage\dataa\Projects\UKPO2\DNAGraphTest\obj\Debug\DNAGraphTest.dll
+E:\Storage\dataa\Projects\UKPO2\DNAGraphTest\obj\Debug\DNAGraphTest.pdb
+C:\Users\Dmitry\source\repos\ukpoTests\DNAGraphTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Dmitry\source\repos\ukpoTests\DNAGraphTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Dmitry\source\repos\ukpoTests\DNAGraphTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Dmitry\source\repos\ukpoTests\DNAGraphTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Dmitry\source\repos\ukpoTests\DNAGraphTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Dmitry\source\repos\ukpoTests\DNAGraphTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Dmitry\source\repos\ukpoTests\DNAGraphTest\bin\Debug\DNAGraphTest.dll
+C:\Users\Dmitry\source\repos\ukpoTests\DNAGraphTest\bin\Debug\DNAGraphTest.pdb
+C:\Users\Dmitry\source\repos\ukpoTests\DNAGraphTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Dmitry\source\repos\ukpoTests\DNAGraphTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Dmitry\source\repos\ukpoTests\DNAGraphTest\bin\Debug\UKPO2.exe
+C:\Users\Dmitry\source\repos\ukpoTests\DNAGraphTest\bin\Debug\UKPO2.pdb
+C:\Users\Dmitry\source\repos\ukpoTests\DNAGraphTest\bin\Debug\UKPO2.exe.config
+C:\Users\Dmitry\source\repos\ukpoTests\DNAGraphTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Dmitry\source\repos\ukpoTests\DNAGraphTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Dmitry\source\repos\ukpoTests\DNAGraphTest\obj\Debug\DNAGraphTest.csprojResolveAssemblyReference.cache
+C:\Users\Dmitry\source\repos\ukpoTests\DNAGraphTest\obj\Debug\DNAGraphTest.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\ukpoTests\DNAGraphTest\obj\Debug\DNAGraphTest.dll
+C:\Users\Dmitry\source\repos\ukpoTests\DNAGraphTest\obj\Debug\DNAGraphTest.pdb
+C:\Users\Dmitry\source\repos\ukpoTests\DNAGraphTest\bin\Debug\nunit.framework.dll
+C:\Users\Dmitry\source\repos\ukpoTests\DNAGraphTest\bin\Debug\nunit.framework.xml
+C:\Users\Dmitry\source\repos\ukpoKR\DNAGraphTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Dmitry\source\repos\ukpoKR\DNAGraphTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Dmitry\source\repos\ukpoKR\DNAGraphTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Dmitry\source\repos\ukpoKR\DNAGraphTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Dmitry\source\repos\ukpoKR\DNAGraphTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Dmitry\source\repos\ukpoKR\DNAGraphTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Dmitry\source\repos\ukpoKR\DNAGraphTest\bin\Debug\DNAGraphTest.dll
+C:\Users\Dmitry\source\repos\ukpoKR\DNAGraphTest\bin\Debug\DNAGraphTest.pdb
+C:\Users\Dmitry\source\repos\ukpoKR\DNAGraphTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Dmitry\source\repos\ukpoKR\DNAGraphTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Dmitry\source\repos\ukpoKR\DNAGraphTest\bin\Debug\nunit.framework.dll
+C:\Users\Dmitry\source\repos\ukpoKR\DNAGraphTest\bin\Debug\UKPO2.exe
+C:\Users\Dmitry\source\repos\ukpoKR\DNAGraphTest\bin\Debug\UKPO2.pdb
+C:\Users\Dmitry\source\repos\ukpoKR\DNAGraphTest\bin\Debug\UKPO2.exe.config
+C:\Users\Dmitry\source\repos\ukpoKR\DNAGraphTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Dmitry\source\repos\ukpoKR\DNAGraphTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Dmitry\source\repos\ukpoKR\DNAGraphTest\bin\Debug\nunit.framework.xml
+C:\Users\Dmitry\source\repos\ukpoKR\DNAGraphTest\obj\Debug\DNAGraphTest.csprojResolveAssemblyReference.cache
+C:\Users\Dmitry\source\repos\ukpoKR\DNAGraphTest\obj\Debug\DNAGraphTest.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\ukpoKR\DNAGraphTest\obj\Debug\DNAGraphTest.dll
+C:\Users\Dmitry\source\repos\ukpoKR\DNAGraphTest\obj\Debug\DNAGraphTest.pdb
